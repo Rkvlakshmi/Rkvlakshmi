@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the data visualization project.
 - 📫 How to reach me rkvlakshmi16@gmail.com
 - 😄 Pronouns: keerthana
-- ⚡ Fun fact: 
+   
 
 <!---
 Rkvlakshmi/Rkvlakshmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
